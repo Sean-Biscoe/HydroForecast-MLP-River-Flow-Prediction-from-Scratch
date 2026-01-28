@@ -97,4 +97,3 @@ The **Bold Driver** logic follows:
 * If : 
 * Else: 
 
-Would you like me to help you write the code to split your data into training and testing sets for the MLP?
