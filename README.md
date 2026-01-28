@@ -1,7 +1,3 @@
-Here is a clean, professional `README.md` file tailored for your project. I’ve structured it to reflect both the data preprocessing pipeline and the custom Multi-Layer Perceptron (MLP) implementation.
-
----
-
 # River Flow & Rainfall Prediction Pipeline
 
 This project provides a comprehensive end-to-end pipeline for hydrological data analysis. It includes advanced data cleaning, outlier removal, missing value interpolation, and a custom **Multi-Layer Perceptron (MLP)** built from scratch using NumPy for predictive modeling.
